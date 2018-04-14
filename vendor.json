@@ -1,0 +1,6 @@
+{
+  "rootPath": "github.com/krushelnytskyi/contact-vitalii",
+  "heroku": {
+    "goVersion": "go1.9"
+  }
+}
